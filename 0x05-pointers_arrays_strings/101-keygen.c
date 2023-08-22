@@ -33,6 +33,7 @@ int main(void)
 		k++;
 	}
 	p[i] = '\0';
-	printf("%s", p);
+	printf("%s\n", p);
+	printf("Tada! Congrats\n");
 	return (0);
 }
