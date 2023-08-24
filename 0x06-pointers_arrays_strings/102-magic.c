@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void)
+int main(void) /*void.*/
 {
 	int n;
 	int a[5];
